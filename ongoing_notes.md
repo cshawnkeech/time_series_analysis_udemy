@@ -2,6 +2,9 @@
 
 Most of this course is presented via Jupyter notebooks.
 
+Time series data must have a constant frequency that persists throughout
+the set.
+
 ## Section 3
 
 * [3.14 Loading the
@@ -14,4 +17,5 @@ Market Indexes:
 * FTSE 100 - ftse (pronounced 'footsie'), London (UK)
 * NIKKEI 225 - nikkei, Japan
 
-The number indicates the number of companies included in the index portfolio.
+The number indicates the number of companies included in the index
+portfolio.

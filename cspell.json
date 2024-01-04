@@ -11,21 +11,27 @@
     // words - list of words to be always considered correct
     "words": [
         "ANOVA",
+        "asfreq",
+        "bfill",
         "binom",
         "boxplot",
         "chisquare",
         "corrcoef",
         "dayfirst",
         "ddof",
+        "ffill",
         "figsize",
+        "fillna",
         "FTSE",
+        "iloc",
         "Interquartile",
         "isna",
         "percentileofscore",
         "probplot",
         "pylab",
         "scatterplots",
-        "Udemy"
+        "Udemy",
+        "ylim"
     ],
     "dictionaries": [
         "python",

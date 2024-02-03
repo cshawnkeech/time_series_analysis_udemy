@@ -10,6 +10,7 @@
     ],
     // words - list of words to be always considered correct
     "words": [
+        "adfuller",
         "ANOVA",
         "asfreq",
         "bfill",
@@ -30,6 +31,9 @@
         "probplot",
         "pylab",
         "scatterplots",
+        "Stationarity",
+        "statsmodels",
+        "stattools",
         "Udemy",
         "ylim"
     ],
